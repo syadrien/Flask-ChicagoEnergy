@@ -1,2 +1,2 @@
 # Flask-ChicagoEnergy
- Flask app for Chicago Energy project
+ Flask app for Chicago Energy project: https://chicagoenergy.herokuapp.com/
